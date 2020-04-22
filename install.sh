@@ -13,3 +13,4 @@ temp="$dir/bin"
 if ! [[ $PATH =~ "$temp" ]]; then #checking if path already exists in .bashrc
 	echo "export PATH=$PATH:$dir/bin" >> "$FILE"
 fi
+
