@@ -11,7 +11,6 @@ fi
 #checking if ~/bin is in the path and if not put it in.
 cd ~/bin
 dir=$(pwd)
-echo $dir
 if ! [[ $PATH =~ "$dir" ]]; then
 	echo "export PATH=$PATH:$dir" >> "$FILE" 
 fi
