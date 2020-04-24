@@ -45,4 +45,5 @@ cd ~/bin
 cp ~/src/fancy_tools/bin/updateFancyTools ~/bin/updateFancyTools
 chmod +x updateFancyTools #giving it executable rights
 
-echo "Installation completed !"
+echo -e " \e[5mInstallation Completed \e[25m!"
+
