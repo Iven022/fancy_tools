@@ -15,7 +15,7 @@ And also a function with simplifies the git commit code making it more understan
 gco this is my commit message will send the code git commit -m "[current branch you are working] this is my commit message"
 With the function gco you don't need to put your message between inverted commas. Just gco yourMessage. 
 
-The folder you downloaded is a git repository and you can work on it and add your own modifications, don't worry it's not that folder that is linked to your .bashrc file and for your modifications to take place you have request us a pull request and we will do our best to merge it into master. Then you will just have to run updateFancyTools for the modification to take place, update fancy tool is a utility tool have helps you to pull the modifications onto your system or to pull any of our updates.
+The folder you downloaded is a git repository and you can work on it and add your own modifications, don't worry it's not that folder that is linked to your .bashrc file and for your modifications to take place you have request us a pull request and we will do our best to merge it into master. Then you will just have to run updateFancyTools for the modification to take place, update fancy tool is a utility tool have helps you to pull the modifications onto your system or to pull any of our updates. Or you can always copy our repo into your github and have all the rights of the project.
 
 ### Prerequisites
 
